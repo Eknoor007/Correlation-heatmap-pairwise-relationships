@@ -1,1 +1,4 @@
 # Correlation-heatmap-pairwise-relationships
+The Pearson correlation analysis shows that age has the strongest linear relationship with medical charges (r ≈ 0.30), indicating a weak-to-moderate positive association. This suggests that insurance charges generally increase as age increases. BMI shows a weaker positive correlation with charges (r ≈ 0.20), while children has a very weak relationship (r ≈ 0.07), indicating minimal linear influence.
+
+The distribution of charges is highly right-skewed, with a long tail of high-cost observations, suggesting the presence of extreme values. Pairwise scatterplots reveal visible clustering patterns in charges, likely driven by categorical variables such as smoker status. This indicates that while numeric correlations are modest, categorical factors may significantly impact medical charges.
